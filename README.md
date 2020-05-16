@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/FuziqAnggara/Ujikom-SPP/public/img/dashboard.PNG" width="600"></p>
+
 <p align="center">
     <h1>Aplikasi SPP</h1>
 </p>
