@@ -1,5 +1,5 @@
 <p align="center">
-    <h1>Pembayaran SPP</h1>
+    <h1>Aplikasi SPP</h1>
 </p>
 
 ## Tentang Pembayaran SPP
