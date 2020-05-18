@@ -1,10 +1,10 @@
 <p align="center"><img src="https://github.com/FuziqAnggara/Ujikom-SPP/blob/master/public/img/dashboard.PNG" width="1000"></p>
 
 <p align="center">
-    <h1>Aplikasi SPP</h1>
+    <h1>Aplikasi Pembayaran SPP</h1>
 </p>
 
-## Tentang Pembayaran SPP
+## Tentang Aplikasi Pembayaran SPP
 
 Level Admin
 
@@ -47,3 +47,13 @@ Level Siswa
 
 -   NISN : 123456789876
 -   Nama : siswa
+
+## Cara Install Project Aplikasi Pembayaran SPP
+
+$ cd Ujikom - SPP <br>
+$ composer update <br>
+$ php artisan migrate --seed <br>
+$ php artisan serve <br>
+
+Catatan :
+lakukan terlebih dahulu pembuatan database dengan nama db_spp sebelum melakukan migrate.
